@@ -1,0 +1,28 @@
+Duda: Se prueban los mailers? 
+Features
+Primero tiene que tener la session iniciada
+
+Test header
+Ir a landing page
+Ir a simulator page
+Ir a materiales
+Cerrar session
+
+
+
+controller
+categories
+level
+level_question
+themes
+theme_question
+
+charge
+home
+test_questions
+simulators
+vouchers
+
+
+
+https://gist.github.com/HeroicEric/9935542
